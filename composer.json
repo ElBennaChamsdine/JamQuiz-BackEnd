@@ -21,9 +21,7 @@
         "symfony/security-bundle": "5.2.*",
         "symfony/yaml": "5.2.*"
     },
-    "require-dev": {
-        
-    },
+
     "config": {
         "optimize-autoloader": true,
         "preferred-install": {
