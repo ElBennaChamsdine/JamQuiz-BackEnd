@@ -90,6 +90,9 @@
     "laminas/laminas-zendframework-bridge": {
         "version": "1.1.1"
     },
+    "lcobucci/clock": {
+        "version": "2.0.0"
+    },
     "lcobucci/jwt": {
         "version": "3.4.5"
     },
@@ -112,7 +115,7 @@
         "version": "v4.10.4"
     },
     "php": {
-        "version": "7.2"
+        "version": "7.4"
     },
     "psr/cache": {
         "version": "1.0.1"
